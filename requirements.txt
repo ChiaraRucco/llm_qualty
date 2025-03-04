@@ -1,0 +1,8 @@
+transformers
+torch
+textstat
+fastapi
+uvicorn
+streamlit
+pandas 
+vllm
